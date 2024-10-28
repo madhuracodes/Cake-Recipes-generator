@@ -1,4 +1,3 @@
-alert("hello");
 function generateRecipe(event) {
   event.preventDefault();
 
